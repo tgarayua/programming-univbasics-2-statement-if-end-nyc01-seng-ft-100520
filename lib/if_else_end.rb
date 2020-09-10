@@ -1,5 +1,5 @@
 # Write your solution here
-current_time = time.now 
+current_time = time.authenticate_or_request_with_http_digest
 
 current_time = current_time.to_i 
 
